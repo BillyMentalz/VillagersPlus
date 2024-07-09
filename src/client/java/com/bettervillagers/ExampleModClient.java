@@ -1,4 +1,4 @@
-package com.example;
+package com.bettervillagers;
 
 import net.fabricmc.api.ClientModInitializer;
 

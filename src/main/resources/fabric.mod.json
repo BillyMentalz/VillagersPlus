@@ -1,11 +1,13 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
+	"id": "bettervillagers",
 	"version": "${version}",
-	"name": "Example mod",
+	"name": "",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"BillyMentalz",
+		"Robin",
+		"Cryo"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -16,10 +18,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+			"com.bettervillagers.ExampleMod"
 		],
 		"client": [
-			"com.example.ExampleModClient"
+			"com.bettervillagers.ExampleModClient"
 		]
 	},
 	"mixins": [
